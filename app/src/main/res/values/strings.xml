@@ -1,11 +1,18 @@
 <resources>
     <string name="app_name">Age Calculator</string>
     <string name="enter_the_your_age">Enter the your Age</string>
-    <string name="selected_date">Selected Date:-</string>
+    <string name="selected_date">Selected Date</string>
     <string name="select_date">Select Date</string>
-    <string name="age_in_minutes">Age in minutes:-</string>
+    <string name="age_in_minutes">Age in Minutes</string>
     <string name="age_calculator">Age Calculator</string>
-    <string name="age_in_year">Age in Year:-</string>
-    <string name="age_in_hours">Age in Hours:-</string>
-    <string name="age_in_days">Age in Days:-</string>
+    <string name="age_in_year">Age in Year</string>
+    <string name="age_in_hours">Age in Hours</string>
+    <string name="age_in_days">Age in Day</string>
+    <string name="current_date">Current Date</string>
+    <string name="years">Years</string>
+    <string name="months">Months</string>
+    <string name="age_in_second">Age in Seconds</string>
+    <string name="days">Days</string>
+    <string name="age_in_months">Age in Month</string>
+    <string name="age_in_weeks">Age in week</string>
 </resources>
