@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/anant/AndroidStudioProjects/AgeCalculator/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.145" />
+        <entry key="..\:/Users/anant/AndroidStudioProjects/AgeCalculator/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.145" />
         <entry key="..\:/Users/anant/AndroidStudioProjects/AgeCalculator/app/src/main/res/drawable/round_background.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/anant/AndroidStudioProjects/AgeCalculator/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/anant/AndroidStudioProjects/AgeCalculator/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/anant/AndroidStudioProjects/AgeCalculator/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1359375" />
         <entry key="..\:/Users/anant/AndroidStudioProjects/AgeCalculator/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1359375" />
       </map>

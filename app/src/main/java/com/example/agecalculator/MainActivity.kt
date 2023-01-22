@@ -29,9 +29,6 @@ class MainActivity : AppCompatActivity() {
         binding.dateButton.setOnClickListener { view ->
             datePicker(view)
         }
-        binding.backButton.setOnClickListener {
-            finish()
-        }
     }
 
     @SuppressLint("SetTextI18n")
@@ -105,6 +102,3 @@ class MainActivity : AppCompatActivity() {
         dpd.show()
     }
 }
-
-
-
